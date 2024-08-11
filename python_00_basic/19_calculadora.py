@@ -39,6 +39,6 @@ def calculator():
                 print("La multiplicación es:", multiply(num1, num2))
         
         else:
-            print("Opción no válida, por intenta de nuevo")
+            print("Opción no válida, por favor intenta de nuevo")
 
 calculator()
